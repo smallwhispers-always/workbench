@@ -48,6 +48,9 @@
     <ClInclude Include="adjustload.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="replaceload.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="OptimizeParameters.cpp">
@@ -84,6 +87,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="adjustload.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="replaceload.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

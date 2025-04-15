@@ -136,6 +136,7 @@
     <ClInclude Include="origTstepTsize.h" />
     <ClInclude Include="readRMresultfile.h" />
     <ClInclude Include="renameDmpFile.h" />
+    <ClInclude Include="replaceload.h" />
     <ClInclude Include="runFebio.h" />
     <ClInclude Include="timeloadlaststep.h" />
   </ItemGroup>
@@ -150,6 +151,7 @@
     <ClCompile Include="origTstepTsize.cpp" />
     <ClCompile Include="readRMresultfile.cpp" />
     <ClCompile Include="renameDmpFile.cpp" />
+    <ClCompile Include="replaceload.cpp" />
     <ClCompile Include="runFebio.cpp" />
     <ClCompile Include="timeloadlaststep.cpp" />
   </ItemGroup>
