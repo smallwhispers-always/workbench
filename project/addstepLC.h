@@ -11,7 +11,11 @@
 //   originaltimestep - 原始时间步数
 //   originalstepsize - 原始步长大小
 //   timestepincrease - 时间步增量
-void addstepLC(const std::string& oldfilename, const std::string& newfilename,
-               const std::string& tempfilename, int firstLCnumber, int lastLCnumber,
-               int originaltimestep, double originalstepsize, int timestepincrease);
+void addstepLC(const std::string& oldfilename, 
+               const std::string& newfilename,
+               const std::string& tempfilename, 
+               int firstLCnumber, int lastLCnumber,
+               int originaltimestep, 
+               double originalstepsize, 
+               int timestepincrease);
 

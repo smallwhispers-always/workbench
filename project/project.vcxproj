@@ -144,7 +144,7 @@
     <ClCompile Include="adjustload.cpp" />
     <ClCompile Include="changeDMPnameInRestart.cpp" />
     <ClCompile Include="checkFEMofferResultFile.cpp" />
-    <ClCompile Include="matlab_main.cpp" />
+    <ClCompile Include="00matlab_main.cpp" />
     <ClCompile Include="optimization.cpp" />
     <ClCompile Include="OptimizeParameters.cpp" />
     <ClCompile Include="origTstepTsize.cpp" />

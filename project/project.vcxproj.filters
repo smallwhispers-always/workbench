@@ -30,9 +30,6 @@
     <ClInclude Include="checkFEMofferResultFile.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="addstepLC.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="changeDMPnameInRestart.h">
       <Filter>头文件</Filter>
     </ClInclude>
@@ -45,6 +42,9 @@
     <ClInclude Include="timeloadlaststep.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="addstepLC.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
     <ClInclude Include="adjustload.h">
       <Filter>头文件</Filter>
     </ClInclude>
@@ -53,7 +53,7 @@
     <ClCompile Include="OptimizeParameters.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="matlab_main.cpp">
+    <ClCompile Include="00matlab_main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="origTstepTsize.cpp">
@@ -68,9 +68,6 @@
     <ClCompile Include="checkFEMofferResultFile.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="addstepLC.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="changeDMPnameInRestart.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -81,6 +78,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="timeloadlaststep.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="addstepLC.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="adjustload.cpp">
